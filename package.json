@@ -1,0 +1,41 @@
+{
+  "name": "claude-code-codex-mcp",
+  "version": "1.0.0",
+  "description": "Model Context Protocol (MCP) server bridging Claude Code with Codex sessions and models",
+  "main": "src/index.mjs",
+  "bin": {
+    "codex-mcp": "./bin/cli.mjs"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.mjs",
+    "test": "node test/test.mjs"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "claude-code",
+    "codex",
+    "codex-cli",
+    "ai-agent",
+    "developer-tools"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/claude-code-codex-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/claude-code-codex-mcp/issues"
+  },
+  "homepage": "https://github.com/your-username/claude-code-codex-mcp#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "ajv": "^8.17.1"
+  }
+}
