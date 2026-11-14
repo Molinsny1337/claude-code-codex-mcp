@@ -9,6 +9,7 @@
 > 在 **Claude Code** 终端中直接调用 **Codex** 的历史会话（Sessions）、挂载后台任务，并自由使用 Codex 中配置的全部高性能大模型。
 
 [English Documentation](#english-readme) | [中文说明文档](#中文说明文档)
+**作者 / Author:** [Molinsny1337](https://github.com/Molinsny1337)
 
 ---
 
@@ -78,14 +79,14 @@
 
 **Windows (PowerShell)**:
 ```powershell
-git clone https://github.com/your-username/claude-code-codex-mcp.git
+git clone https://github.com/Molinsny1337/claude-code-codex-mcp.git
 cd claude-code-codex-mcp
 .\install.ps1
 ```
 
 **Linux / macOS (Bash)**:
 ```bash
-git clone https://github.com/your-username/claude-code-codex-mcp.git
+git clone https://github.com/Molinsny1337/claude-code-codex-mcp.git
 cd claude-code-codex-mcp
 chmod +x install.sh
 ./install.sh
@@ -138,7 +139,7 @@ Developers often switch between **Claude Code** (Anthropic's autonomous terminal
 ### 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/claude-code-codex-mcp.git
+git clone https://github.com/Molinsny1337/claude-code-codex-mcp.git
 cd claude-code-codex-mcp
 npm install
 npm test
@@ -157,4 +158,4 @@ claude mcp list
 
 ### 📄 License
 
-MIT License. See [LICENSE](LICENSE) for details.
+MIT License © 2026 Molinsny1337. See [LICENSE](LICENSE) for details.
