@@ -21,16 +21,16 @@
     "ai-agent",
     "developer-tools"
   ],
-  "author": "",
+  "author": "Molinsny1337",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/claude-code-codex-mcp.git"
+    "url": "https://github.com/Molinsny1337/claude-code-codex-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/claude-code-codex-mcp/issues"
+    "url": "https://github.com/Molinsny1337/claude-code-codex-mcp/issues"
   },
-  "homepage": "https://github.com/your-username/claude-code-codex-mcp#readme",
+  "homepage": "https://github.com/Molinsny1337/claude-code-codex-mcp#readme",
   "engines": {
     "node": ">=18.0.0"
   },
